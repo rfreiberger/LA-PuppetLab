@@ -1,0 +1,2 @@
+# LA-PuppetLab
+Puppet Lab
